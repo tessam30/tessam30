@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Tim
+
+I work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data scientist/janitor/wrangler. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user, now R + R-Studio + tidyverse.  
+
+![ForTheBadge powered-by-responsiblity](https://forthebadge.com/images/badges/powered-by-responsibility.svg)
 
 <!--
 **tessam30/tessam30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
