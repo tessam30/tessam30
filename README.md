@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tim
 
-I work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([sf](https://r-spatial.github.io/sf/index.html)).    
+I work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([thanks sf](https://r-spatial.github.io/sf/index.html)).    
 
 ![ForTheBadge powered-by-responsiblity](https://forthebadge.com/images/badges/powered-by-responsibility.svg)
 
