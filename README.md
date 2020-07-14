@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Tim
 
-I work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([thanks sf](https://r-spatial.github.io/sf/index.html)).    
+I work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([thanks, sf](https://r-spatial.github.io/sf/index.html)).    
+
+A few recent projects with [@achafetz](https://github.com/achafetz) & [@baboyma](https://github.com/baboyma):
+- [glitr](https://github.com/USAID-OHA-SI/glitr): work specific plotting package to make clean plots
+- [glamr](https://github.com/USAID-OHA-SI/glamr): utility functions to make working with PEPFAR data easier
+- [COVIDutilities](https://github.com/USAID-OHA-SI/COVIDutilities): pull COVID-19 data from JHU and return a tidy data frame
 
 ![ForTheBadge powered-by-responsiblity](https://forthebadge.com/images/badges/powered-by-responsibility.svg)
 
