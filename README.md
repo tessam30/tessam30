@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tim
 
-I (maybe) wiork at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([thanks, sf](https://r-spatial.github.io/sf/index.html)).     
+I (maybe) work at [USAID](https://www.usaid.gov/global-health/health-areas/hiv-and-aids) as a data janitor/wrangler/scientist. Former [Stata](https://www.stata.com/bookstore/stata-cheat-sheets/) user/cheatsheet maker, now [R-Studio](https://rstudio.com/) + [tidyverse](https://www.tidyverse.org/). Sometimes GIS (Arc/QGIS), but R handles most of that now ([thanks, sf](https://r-spatial.github.io/sf/index.html)).     
 
 A few recent projects with [@achafetz](https://github.com/achafetz) & [@baboyma](https://github.com/baboyma):
 - [selfdestructin5](https://github.com/USAID-OHA-SI/selfdestructin5): Creates `gt` polished summary tables from a MSD
